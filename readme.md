@@ -1,5 +1,5 @@
-![pet-shop-smart-contract.jpg](img%2F
-pet-shop-smart-contract.jpg)
+![pet-shop-smart-contract.jpg](img%2Fpet-shop-smart-contract.jpg)
+
 Truffle is the development framework for Ethereum, simplifying smart contract creation, testing, and deployment.
 
 # Smart Contract 
